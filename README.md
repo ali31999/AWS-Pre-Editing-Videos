@@ -1,6 +1,8 @@
 # AWS-Pre-Editing-Videos
 S3 Bucket -> Lambda: Start Rekognition  -> Rekognition  -> SNS Topic -> Lambda: Process Results  -> Notion
 
+<img width="1812" height="1973" alt="Cosmic System — AWS Rekognition to Premiere Pro" src="https://github.com/user-attachments/assets/19d3cfc5-91e7-4729-84cf-61be1a5f3ce8" />
+
 ### The Problem
 Video editors spend **2–4 hours per shoot** manually ingesting, organizing, tagging, and assembling raw footage into rough draft timelines before creative editing can begin.
 
