@@ -1,8 +1,5 @@
 # AWS-Pre-Editing-Videos
-S3 Bucket -> Lambda: Start Rekognition  -> Rekognition  -> SNS Topic -> Lambda: Process Results  -> Notion
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jgzSITIaan4?si=h4VFeuxbPoBaHL3q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<img width="1812" height="1973" alt="Cosmic System — AWS Rekognition to Premiere Pro" src="https://github.com/user-attachments/assets/19d3cfc5-91e7-4729-84cf-61be1a5f3ce8" />
+DEMO: https://youtu.be/jgzSITIaan4?si=vBSmizqjHs2IJWAx
 
 ### The Problem
 Video editors spend **2–4 hours per shoot** manually ingesting, organizing, tagging, and assembling raw footage into rough draft timelines before creative editing can begin.
@@ -12,6 +9,9 @@ An enterprise-grade, **event-driven serverless cloud pipeline** that automates t
 1. **Detects & Analyzes:** Computer vision detects actions and apparel objects while extracting true video runtimes.
 2. **Tags & Catalogs:** Syncs metadata to Notion with folder-level parent-child isolation.
 3. **Generates Sequence:** Dynamically compiles a **Final Cut Pro 7 XML timeline** formatted with native Windows file URIs (`C:\VIDEO EDIT\`).
+
+<img width="1812" height="1973" alt="Cosmic System — AWS Rekognition to Premiere Pro" src="https://github.com/user-attachments/assets/19d3cfc5-91e7-4729-84cf-61be1a5f3ce8" />
+
 
 ### The Business Impact
 * **95% Reduction in Pre-Editing Time:** Drops manual footage sorting from ~120 minutes to under 30 seconds.
