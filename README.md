@@ -115,6 +115,7 @@ aws s3 cp my-clip.mp4 s3://cosmic-data-ocean/AWS\ Rekognition\ TEST/
 **AWS**
 <img width="1512" height="596" alt="Screenshot 2026-10-26 034508" src="https://github.com/user-attachments/assets/425e455a-f5d8-46c1-abe9-f1bb5250404a" />
 
+
 ---
 
 ## Enterprise Security & Well-Architected Standards
