@@ -105,10 +105,14 @@ aws s3 cp my-clip.mp4 s3://cosmic-data-ocean/AWS\ Rekognition\ TEST/
 2. Open **Adobe Premiere Pro** \\(\rightarrow\\) **File** \\(\rightarrow\\) **Import** \\(\rightarrow\\) Select the `.xml` file.
 3. **Result:** The timeline sequence loads onto **Track V1** with all media online, accurate durations, and color-coded bins—ready for narrative assembly.
 
+   
+**Adobe Premiere**
 <img width="1535" height="856" alt="Screenshot 2026-10-26 034815" src="https://github.com/user-attachments/assets/aa8bd4cd-f6e9-424f-9c58-2522b3bf91d7" />
 
+**Notion**
 <img width="1520" height="252" alt="Screenshot 2026-10-26 034704" src="https://github.com/user-attachments/assets/fc0a8a62-f164-4d26-b4c5-7fcf5a31ca71" />
 
+**AWS**
 <img width="1512" height="596" alt="Screenshot 2026-10-26 034508" src="https://github.com/user-attachments/assets/425e455a-f5d8-46c1-abe9-f1bb5250404a" />
 
 ---
