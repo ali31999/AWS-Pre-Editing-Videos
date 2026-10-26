@@ -1,5 +1,6 @@
 # AWS-Pre-Editing-Videos
 S3 Bucket -> Lambda: Start Rekognition  -> Rekognition  -> SNS Topic -> Lambda: Process Results  -> Notion
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jgzSITIaan4?si=h4VFeuxbPoBaHL3q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img width="1812" height="1973" alt="Cosmic System — AWS Rekognition to Premiere Pro" src="https://github.com/user-attachments/assets/19d3cfc5-91e7-4729-84cf-61be1a5f3ce8" />
 
@@ -103,6 +104,9 @@ aws s3 cp my-clip.mp4 s3://cosmic-data-ocean/AWS\ Rekognition\ TEST/
    ```
 2. Open **Adobe Premiere Pro** \\(\rightarrow\\) **File** \\(\rightarrow\\) **Import** \\(\rightarrow\\) Select the `.xml` file.
 3. **Result:** The timeline sequence loads onto **Track V1** with all media online, accurate durations, and color-coded bins—ready for narrative assembly.
+<img width="1512" height="596" alt="Screenshot 2026-10-26 034508" src="https://github.com/user-attachments/assets/425e455a-f5d8-46c1-abe9-f1bb5250404a" />
+<img width="1535" height="856" alt="Screenshot 2026-10-26 034815" src="https://github.com/user-attachments/assets/aa8bd4cd-f6e9-424f-9c58-2522b3bf91d7" />
+<img width="1520" height="252" alt="Screenshot 2026-10-26 034704" src="https://github.com/user-attachments/assets/fc0a8a62-f164-4d26-b4c5-7fcf5a31ca71" />
 
 ---
 
